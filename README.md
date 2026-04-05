@@ -8,8 +8,6 @@
   <p>
     Turning ideas into clean, intuitive digital experiences. Currently building tools with AI, modern web tech, and data insights.
   </p>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=SipheDilima247&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Siphe's GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SipheDilima247&theme=tokyonight&hide_border=true" alt="Siphe's Streak" />
 </div>
