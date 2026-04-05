@@ -39,12 +39,6 @@ Hugging Face • Machine Learning Basics • Git • Docker (learning)
 
 ---
 
-### GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SipheDilima247&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
----
-
 ### 🌐 Let's Connect
 
 - 📍 Motherwell, Port Elizabeth (Techno-Hub)
