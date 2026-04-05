@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend & Design**  
 HTML • CSS • JavaScript • TypeScript • React • Figma • UI/UX Research
@@ -29,7 +29,7 @@ Hugging Face • Machine Learning Basics • Git • Docker (learning)
 
 ---
 
-### 🔥 Featured Projects
+###  Featured Projects
 
 - **[TruthScan-ZA](https://github.com/SipheDilima247/TruthScan-ZA)** — AI-powered image detector to spot deepfakes and AI-generated images (free & zero-budget tool)
 - **[Kalshi-sa](https://github.com/SipheDilima247/Kalshi-sa)** — TypeScript project
@@ -40,7 +40,7 @@ Hugging Face • Machine Learning Basics • Git • Docker (learning)
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SipheDilima247&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
