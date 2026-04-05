@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR0YTZveW10bzRucmFrY2lqc2x1bWRlazNpZHNsbDQxZTVuaWFnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IyadY5i6owme9BThIm/giphy.gif" alt="Siphe Dilima - UI/UX & Front-end Developer" width="100%" />
+  <img src="https://64.media.tumblr.com/39e9cde33114fda2f8cdf95f850fc255/tumblr_ot042dBMPj1ro8ysbo1_500.gif" alt="Siphe Dilima - UI/UX & Front-end Developer" width="100%" />
 </div>
 
 <div align="center">
