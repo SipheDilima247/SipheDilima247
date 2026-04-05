@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="YOUR_GIF_URL_HERE" alt="Siphe Dilima - UI/UX & Front-end Developer" width="100%" />
+</div>
+
+<div align="center">
   <h1>Hi, I'm Siphe 👋</h1>
   
   <p>
