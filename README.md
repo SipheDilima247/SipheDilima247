@@ -35,8 +35,9 @@ Hugging Face • Machine Learning Basics • Git • Docker (learning)
 - **[Kalshi-sa](https://github.com/SipheDilima247/Kalshi-sa)** — TypeScript project
 - **[rrs-mvp](https://github.com/SipheDilima247/rrs-mvp)** — Python MVP
 - **[ai-code-exercises](https://github.com/SipheDilima247/ai-code-exercises)** — AI course exercises
+- **[Voting System](https://github.com/SipheDilima247/Voting-System1.0)** — Proposed New Voting System
 
-*(Pin your best 4–6 repos on your profile after this — TruthScan-ZA should definitely be pinned!)*
+
 
 ---
 
