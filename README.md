@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_GIF_URL_HERE" alt="Siphe Dilima - UI/UX & Front-end Developer" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzR0YTZveW10bzRucmFrY2lqc2x1bWRlazNpZHNsbDQxZTVuaWFnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IyadY5i6owme9BThIm/giphy.gif" alt="Siphe Dilima - UI/UX & Front-end Developer" width="100%" />
 </div>
 
 <div align="center">
